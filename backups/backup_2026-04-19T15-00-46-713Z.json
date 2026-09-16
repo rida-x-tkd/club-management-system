@@ -1,0 +1,60 @@
+{
+  "settings": {
+    "club_name": "جمعية أبطال بوكايسي للتايكوندو",
+    "club_subtitle": "نظام إدارة اشتراكات النادي المتميز",
+    "club_logo": "",
+    "subscription_fee": 100,
+    "currency": "د.ج"
+  },
+  "players": [
+    {
+      "id": 1,
+      "name": "رضى الحمزاوي",
+      "phone": "0711908628",
+      "reg_date": "2026-04-19",
+      "belt": "أسود",
+      "image": "",
+      "months": [
+        false,
+        true,
+        false,
+        true,
+        true,
+        false,
+        true,
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      "created_at": "2026-04-19T14:25:50.368Z"
+    },
+    {
+      "id": 2,
+      "name": "ايوب بوبكري",
+      "phone": "0711365047",
+      "reg_date": "2026-12-14",
+      "monthly_amount": 100,
+      "image": "",
+      "months": [
+        false,
+        false,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "created_at": "2026-04-19T14:57:23.852Z"
+    }
+  ],
+  "expenses": [],
+  "nextPlayerId": 3,
+  "nextExpenseId": 1
+}
